@@ -1,4 +1,4 @@
-name: Codzienny raport rynkowy
+name: .github/workflows/daily-report.yml
 
 on:
   schedule:
